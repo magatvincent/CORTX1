@@ -1,0 +1,11 @@
+{
+    "NameVannes": "V1",
+    "NamePompesDeVide": "PV1",
+    "NamePompes": "P1",
+    "NameAccumulateurs": "ACCU1",
+    "NameBlocDeRefroissement": "BDR1",
+    "NameVerinsHydrauliquesMoules": "VHM1",
+    "NameVerinsHydrauliquesLevage": "VHL1",
+    "NameBoudinsPneumatiquesContrePression": "BPC1",
+    "NameBoudinsPneumatiquesSuspension": "BPS1"
+  }

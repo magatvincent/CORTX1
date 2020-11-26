@@ -1,0 +1,34 @@
+{
+    "NumberVibroCompactor": 2,
+    "SubSystemtName": "VibroCompactor",
+    "Component": [
+      {
+        "id": 1,
+        "name": "VerinsHydrauliquesLevage",
+        "number": 1,
+        "ComponentType":"VHL1",
+        "ObjectComponent":null
+      },
+      {
+        "id": 2,
+        "name": "VerinsHydrauliquesMoules",
+        "number": 2,
+        "ComponentType":"VHM1",
+        "ObjectComponent":null
+      },
+      {
+        "id": 3,
+        "name": "BoudinsPneumatiquesContrePression",
+        "number": 2,
+        "ComponentType":"BPC1",
+        "ObjectComponent":null
+      },
+      {
+        "id": 4,
+        "name": "BoudinsPneumatiquesSuspension",
+        "number": 4,
+        "ComponentType":"BPS1",
+        "ObjectComponent":null
+      }
+    ]
+  }

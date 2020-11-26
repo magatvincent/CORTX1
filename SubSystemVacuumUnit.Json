@@ -1,0 +1,20 @@
+{
+  "NumberVacuumUnit": 1,
+  "SubSystemtName": "VacuumUnit",
+  "Component": [
+    {
+      "id": 1,
+      "name": "Vannes",
+      "number": 2,
+      "ComponentType":"V1",
+      "ObjectComponent":null
+    },
+    {
+      "id": 2,
+      "name": "PompesDeVide",
+      "number": 3,
+      "ComponentType":"PV1",
+      "ObjectComponent":null
+    }
+  ]
+}

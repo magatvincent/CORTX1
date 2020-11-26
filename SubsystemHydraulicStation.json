@@ -1,0 +1,34 @@
+{
+    "NumberHydraulicStation": 1,
+    "SubSystemtName": "HydraulicStation",
+    "Component": [
+      {
+        "id": 1,
+        "name": "Pompes",
+        "number": 2,
+        "ComponentType":"P1",
+        "ObjectComponent":null
+      },
+      {
+        "id": 2,
+        "name": "Accumulateurs",
+        "number": 2,
+        "ComponentType":"ACCU1",
+        "ObjectComponent":null
+      },
+      {
+        "id": 3,
+        "name": "Vannes",
+        "number": 2,
+        "ComponentType":"V1",
+        "ObjectComponent":null
+      },
+      {
+        "id": 4,
+        "name": "BlocDeRefroissement",
+        "number": 3,
+        "ComponentType":"BDR1",        
+        "ObjectComponent":null
+      }
+    ]
+  }
